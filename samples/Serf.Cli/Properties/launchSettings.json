@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Serf.Cli": {
+      "commandName": "Project",
+      "commandLineArgs": "keys"
+    }
+  }
+}
