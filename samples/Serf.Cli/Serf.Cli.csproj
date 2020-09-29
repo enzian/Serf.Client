@@ -9,7 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="McMaster.Extensions.CommandLineUtils" Version="2.6.0" />
-    <PackageReference Include="MessagePack" Version="1.9.11" />
+    <PackageReference Include="MessagePack" Version="2.2.60" />
   </ItemGroup>
 
   <ItemGroup>
